@@ -86,7 +86,6 @@
     "fs-extra": "^11.2.0",
     "imports-loader": "^5.0.0",
     "jsdoc": "3.x.x",
-    "node-sloc": "^0.2.1",
     "path": "^0.12.7",
     "phaser3spectorjs": "^0.0.8",
     "remove-files-webpack-plugin": "^1.5.0",
@@ -100,6 +99,7 @@
   },
   "dependencies": {
     "eventemitter3": "^5.0.1",
+    "node-sloc": "^0.2.1",
     "socket.io": "^4.5.0"
   }
 }
